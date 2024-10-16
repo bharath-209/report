@@ -1,0 +1,59 @@
+
+[
+    {
+      "Bank Name": "HDFC Bank",
+      "State": "Telangana",
+      "City": "Hyderabad",
+      "Branch": "Madhapur",
+      "Branch Manager Name": "Rajesh Kumar",
+      "RegistrationDate": "2024-01-15",
+      "Email ID": "rajesh.madhapur@hdfc.com",
+      "Contact Number": "9876543210",
+      "status": "Completed"
+    },
+    {
+      "Bank Name": "SBI",
+      "State": "Maharashtra",
+      "City": "Mumbai",
+      "Branch": "Andheri",
+      "Branch Manager Name": "Anita Sharma",
+      "RegistrationDate": "2024-04-20",
+      "Email ID": "anita.andheri@sbi.co.in",
+      "Contact Number": "9823456789",
+      "status": "Processing"
+    },
+    {
+      "Bank Name": "IDFC First Bank",
+      "State": "Karnataka",
+      "City": "Bangalore",
+      "Branch": "Whitefield",
+      "Branch Manager Name": "Vikram Patel",
+      "RegistrationDate": "2023-02-10",
+      "Email ID": "vikram.whitefield@idfcfirstbank.com",
+      "Contact Number": "9898765432",
+      "status": "Pending"
+    },
+    {
+      "Bank Name": "ICICI Bank",
+      "State": "Tamil Nadu",
+      "City": "Chennai",
+      "Branch": "Adyar",
+      "Branch Manager Name": "Priya Ramesh",
+      "RegistrationDate": "2023-03-25",
+      "Email ID": "priya.adyar@icicibank.com",
+      "Contact Number": "9887654321",
+      "status": "Completed"
+    },
+    {
+      "Bank Name": "HDFC Bank",
+      "State": "Delhi",
+      "City": "New Delhi",
+      "Branch": "Connaught Place",
+      "Branch Manager Name": "Suresh Gupta",
+      "RegistrationDate": "2022-12-05",
+      "Email ID": "suresh.cp@hdfc.com",
+      "Contact Number": "9876501234",
+      "status": "Processing"
+    }
+  ]
+  

@@ -1,0 +1,42 @@
+[
+  {
+    "source": "Bank",
+    "name": "John Doe",
+    "fatherName": "Robert Doe",
+    "motherName": "Jane Doe",
+    "gender": "Male",
+    "mobileNumber": "1234567890",
+    "email": "johndoe@example.com",
+    "address": "123 Main St, Springfield",
+    "dateOfBirth": "1990-01-01",
+    "totalAmount": "5000",
+    "status": "Active"
+  },
+  {
+    "source": "Dsc",
+    "name": "Jane Smith",
+    "fatherName": "William Smith",
+    "motherName": "Emily Smith",
+    "gender": "Female",
+    "mobileNumber": "0987654321",
+    "email": "janesmith@example.com",
+    "address": "456 Elm St, Metropolis",
+    "dateOfBirth": "1985-07-12",
+    "totalAmount": "3200",
+    "status": "Inactive"
+  },
+  {
+    "source": "Bank",
+    "name": "Michael Johnson",
+    "fatherName": "David Johnson",
+    "motherName": "Sarah Johnson",
+    "gender": "Male",
+    "mobileNumber": "5678901234",
+    "email": "michaelj@example.com",
+    "address": "789 Oak St, Gotham",
+    "dateOfBirth": "1995-05-23",
+    "totalAmount": "2500",
+    "status": "Pending"
+  }
+  
+]

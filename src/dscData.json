@@ -1,0 +1,46 @@
+[
+  {
+    "nameOfDsc": "DSC-001",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "area": "Downtown",
+    "nameOfAuthorizedPerson": "Ravi",
+    "registrationDate": "2023-04-21",
+    "email": "ravi@example.com",
+    "contactNumber": "8977483547",
+    "status": "Active"
+  },
+  {
+    "nameOfDsc": "DSC-002",
+    "state": "New York",
+    "city": "New York City",
+    "area": "Manhattan",
+    "nameOfAuthorizedPerson": "Jane Smith",
+    "registrationDate": "2023-05-14",
+    "email": "jane.smith@example.com",
+    "contactNumber": "9847658435",
+    "status": "Inactive"
+  },
+  {
+    "nameOfDsc": "DSC-003",
+    "state": "Texas",
+    "city": "Houston",
+    "area": "River Oaks",
+    "nameOfAuthorizedPerson": "Michael Johnson",
+    "registrationDate": "2023-03-30",
+    "email": "michael.johnson@example.com",
+    "contactNumber": "827584612",
+    "status": "Active"
+  },
+  {
+    "nameOfDsc": "DSC-004",
+    "state": "Illinois",
+    "city": "Chicago",
+    "area": "Lincoln Park",
+    "nameOfAuthorizedPerson": "Emily Davis",
+    "registrationDate": "2023-02-19",
+    "email": "emily.davis@example.com",
+    "contactNumber": "9987452578",
+    "status": "Pending"
+  }
+]
