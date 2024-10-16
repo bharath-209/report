@@ -1,0 +1,26 @@
+{
+    "clients": [
+      {
+        "Client Name": "John Doe",
+        "Address": "123 Main St, Springfield, IL",
+        "Contact Number": "555-1234",
+        "Email ID": "johndoe@example.com",
+        "Service Type": "Consulting"
+      },
+      {
+        "Client Name": "Jane Smith",
+        "Address": "456 Oak St, Metropolis, NY",
+        "Contact Number": "555-5678",
+        "Email ID": "janesmith@example.com",
+        "Service Type": "IT Support"
+      },
+      {
+        "Client Name": "Alice Johnson",
+        "Address": "789 Pine St, Gotham, NJ",
+        "Contact Number": "555-8765",
+        "Email ID": "alicejohnson@example.com",
+        "Service Type": "Marketing"
+      }
+    ]
+  }
+  
